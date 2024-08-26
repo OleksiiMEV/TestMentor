@@ -1,0 +1,20 @@
+Базові команди Git:
+- checkout
+- log
+- status
+- pull
+- fetch
+- diff
+- commit
+- push
+- stash
+
+Показати на практиці використання цих команд (в IDE)
+merge, rebase
+в чому різниця
+Advanced command
+push-force
+cherry-pick
+git reset (soft, hard)
+Розуміння чому зʼявляються конфлікти і як їх вирішувати
+Щоб закрити картку показати на практиці використання цих команд
